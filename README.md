@@ -3,7 +3,7 @@
 - Create a new solution in visual studio
 - Add a new C# project with an appropriate name to the solution
 - Add a new class and add a new function with appropriate name
-- The function takes as __input a string and __outputs a string__. 
+- The function takes as __input a string__ and __outputs a string__. 
   - The function must return a string using the following rules:
   ```
   if the number is divisible by 3 then return “fizz”
