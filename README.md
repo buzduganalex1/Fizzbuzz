@@ -1,6 +1,10 @@
+# Setup
 
 - Create a new solution in visual studio
 - Add a new C# project with an appropriate name to the solution
+- Add a new C# test project with an appropriate name to the solution
+
+# Requirements
 - Add a new interface with 2 methods
 - The first function takes as __input a string__ and __outputs a string__. 
   - The function must return a string using the following rules:
@@ -19,5 +23,4 @@
     ["8","fizz","buzz", "fizzbuzz"]
     ```
 - Add a new class which implements the interface and create the implementation for the 2 functions.
-- Create a new test project with an appropriate name
-- Add a test class with several test methods that validate your implementation for the created function.
+- Add several test methods that validate your implementation for the created function.
