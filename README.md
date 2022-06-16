@@ -17,7 +17,9 @@
 
 # Examples
 
+```
 Input: 3 Output: fizz
 Input: 10 Output: buzz
 Input: 15 Output : fizzbuzz
 Input: 7 Output: 7
+```
